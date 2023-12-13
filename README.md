@@ -2,4 +2,4 @@
 
 
 ## Live Link : 
-      > https://shhiivvaam.github.io/Duplicates_Removal/
+      https://shhiivvaam.github.io/Duplicates_Removal/
